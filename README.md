@@ -1,5 +1,3 @@
-I am Enayatullah Shadad, with Math and Management background. I migrated from Afghan holding bachelor's degree in Maths. Attained my Associate degree(College of Western Idaho)  in Computer Science.
-
-While pursuing  my Associate degree, interested to enhance my knowledge, and joined bootcamp at BoiseCodeWorks. 
-
-My interest is to develop application for learning to the under priveleged kids.
+I have a bachelor degree of math from Kabul university and associate degree in computer science from College of Western Idaho.
+Recently made a carrer change to computer science and software industry, I bring along fourteen years professional 
+background in teaching mathematics(Arithmetic, Algebra, Geometric and Trigonometry), administrative management, interpretation/translation, and retail. I recently found my passion in software development and programming. I am quick and long life learner and enjoy solving problems with code.
